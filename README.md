@@ -39,6 +39,11 @@ The skill loads these references when relevant:
 - [Carry decision guide](references/carry-decision-guide.md): position-one examples.
 - [Dotabuff profile review guide](references/dotabuff-profile-review.md): sample selection, evidence limits, and review structure.
 
+## Design notes
+
+- [ADR 0001: Live decisions with sparse information](docs/decisions/0001-live-decision-policy.md) records the live-call tradeoff and decision rule.
+- [Glossary](docs/glossary.md) defines the terms used by the coaching policy.
+
 ## Boundaries
 
 The skill provides coaching and analysis. It does not claim continuous access to the game screen, minimap, match telemetry, or input controls. It does not promise wins or rank changes, and it does not support cheating in ranked matchmaking.
