@@ -1,4 +1,4 @@
 interface:
-  display_name: "Dota 2 AI Coach Skills"
-  short_description: "Live carry coaching and Dotabuff profile reviews"
+  display_name: "Dota 2 Adaptive AI Coach"
+  short_description: "Patch-aware map, timing and role coaching for every hero"
   brand_color: "#193A5E"
